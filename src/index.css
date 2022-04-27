@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+  body {
+    @apply w-screen transform sm:rotate-90 md:rotate-0 p-0 m-0;
+  }
+
+  label {
+    @apply block text-gray-700 text-left py-5 sm:py-1 font-bold lg:text-lg sm:text-xs;
+  }
+
+  input {
+    @apply px-2 block w-full lg:text-lg sm:text-sm border border-gray-300 rounded-md  bg-transparent;
+    @apply focus:outline-none;
+  }
+
+  select {
+    @apply mt-1 block w-full border-gray-300 rounded-md bg-transparent;
+  }
+
+  h1 {
+    @apply text-2xl font-bold font-sans text-gray-700;
+  }
+}

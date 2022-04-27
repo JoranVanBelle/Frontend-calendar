@@ -1,0 +1,20 @@
+{
+    "data": [
+      {
+        "event": {
+            "id": "7f28c5f9-d711-4cd6-ac15-d13d71abff02",
+            "title": "Backend testen",
+            "description": "Controleren of er een robuste api is ontwikkeld",
+            "date": "2021-12-07T14:00:00.000Z",
+            "type": "School"
+        },
+        "user": {
+            "id": "7f28c5f9-d711-4cd6-ac15-d13d71abff71",
+            "name": "Joran Van Belle"
+        }
+      }
+    ],
+    "count":3,
+    "limit":9000,
+    "offset":0
+}

@@ -1,0 +1,10 @@
+{
+    "base_url": "http://localhost:9000/api",
+    "token_key": "auth_token",
+    "emailjs": {
+        "user_id": "user_K53UM8A5f4FBGlrid3g7H",
+        "service_id": "service_6gbwd19",
+        "createEventTemplate_id": "template_ofje4el",
+        "createReminderTemplate_id": "template_9t05ked"
+    }
+}
